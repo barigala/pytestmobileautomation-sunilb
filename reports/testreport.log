@@ -1,0 +1,196 @@
+2024-10-28 17:42:06,221 - INFO - Element found with locatorType 'text' and locatorValue 'enter mobile number'
+2024-10-28 17:42:08,694 - INFO - Clicked element with locatorType 'text' and locatorValue 'enter mobile number'
+2024-10-28 17:42:09,587 - INFO - Screenshot taken and saved at '../screenshot/001_Clicked on Mobile Number Input Field_28_10_2024_17_42_08.png'
+2024-10-28 17:42:09,679 - INFO - Element found with locatorType 'text' and locatorValue 'NONE OF THE ABOVE'
+2024-10-28 17:42:09,783 - INFO - Clicked element with locatorType 'text' and locatorValue 'NONE OF THE ABOVE'
+2024-10-28 17:42:10,626 - INFO - Screenshot taken and saved at '../screenshot/002_Clicked on Dialog Box_28_10_2024_17_42_09.png'
+2024-10-28 17:42:11,266 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="7"]'
+2024-10-28 17:42:11,348 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="7"]'
+2024-10-28 17:42:12,349 - INFO - Clicked keypad button with digit '7'
+2024-10-28 17:42:12,353 - INFO - Successfully sent number '7' via keypad
+2024-10-28 17:42:13,136 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="5"]'
+2024-10-28 17:42:13,598 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="5"]'
+2024-10-28 17:42:14,599 - INFO - Clicked keypad button with digit '5'
+2024-10-28 17:42:14,599 - INFO - Successfully sent number '5' via keypad
+2024-10-28 17:42:15,432 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="0"]'
+2024-10-28 17:42:15,499 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="0"]'
+2024-10-28 17:42:16,500 - INFO - Clicked keypad button with digit '0'
+2024-10-28 17:42:16,500 - INFO - Successfully sent number '0' via keypad
+2024-10-28 17:42:17,746 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="7"]'
+2024-10-28 17:42:17,842 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="7"]'
+2024-10-28 17:42:18,842 - INFO - Clicked keypad button with digit '7'
+2024-10-28 17:42:18,842 - INFO - Successfully sent number '7' via keypad
+2024-10-28 17:42:19,692 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="2"]'
+2024-10-28 17:42:19,763 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="2"]'
+2024-10-28 17:42:20,764 - INFO - Clicked keypad button with digit '2'
+2024-10-28 17:42:20,764 - INFO - Successfully sent number '2' via keypad
+2024-10-28 17:42:21,821 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="3"]'
+2024-10-28 17:42:21,884 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="3"]'
+2024-10-28 17:42:22,886 - INFO - Clicked keypad button with digit '3'
+2024-10-28 17:42:22,886 - INFO - Successfully sent number '3' via keypad
+2024-10-28 17:42:23,654 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="3"]'
+2024-10-28 17:42:23,725 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="3"]'
+2024-10-28 17:42:24,726 - INFO - Clicked keypad button with digit '3'
+2024-10-28 17:42:24,726 - INFO - Successfully sent number '3' via keypad
+2024-10-28 17:42:25,868 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="0"]'
+2024-10-28 17:42:25,984 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="0"]'
+2024-10-28 17:42:26,985 - INFO - Clicked keypad button with digit '0'
+2024-10-28 17:42:26,986 - INFO - Successfully sent number '0' via keypad
+2024-10-28 17:42:27,839 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="9"]'
+2024-10-28 17:42:27,923 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="9"]'
+2024-10-28 17:42:28,925 - INFO - Clicked keypad button with digit '9'
+2024-10-28 17:42:28,925 - INFO - Successfully sent number '9' via keypad
+2024-10-28 17:42:29,825 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="5"]'
+2024-10-28 17:42:29,905 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="5"]'
+2024-10-28 17:42:30,906 - INFO - Clicked keypad button with digit '5'
+2024-10-28 17:42:30,906 - INFO - Successfully sent number '5' via keypad
+2024-10-28 17:42:32,342 - INFO - Screenshot taken and saved at '../screenshot/003_Entered Mobile Number_28_10_2024_17_42_31.png'
+2024-10-28 17:42:32,501 - INFO - Element found with locatorType 'text' and locatorValue 'send OTP'
+2024-10-28 17:42:32,632 - INFO - Clicked element with locatorType 'text' and locatorValue 'send OTP'
+2024-10-28 17:42:33,616 - INFO - Screenshot taken and saved at '../screenshot/004_Clicked on OTP button_28_10_2024_17_42_32.png'
+2024-10-28 17:42:36,982 - INFO - Element found with locatorType 'xpath' and locatorValue '(//android.widget.TextView[@text="1"])[2]'
+2024-10-28 17:42:37,054 - INFO - Clicked element with locatorType 'xpath' and locatorValue '(//android.widget.TextView[@text="1"])[2]'
+2024-10-28 17:42:37,054 - INFO - Clicked OTP button with digit '1'
+2024-10-28 17:42:37,054 - INFO - Successfully sent OTP '1' via keypad
+2024-10-28 17:42:38,071 - INFO - Element found with locatorType 'xpath' and locatorValue '(//android.widget.TextView[@text="2"])[2]'
+2024-10-28 17:42:38,767 - INFO - Clicked element with locatorType 'xpath' and locatorValue '(//android.widget.TextView[@text="2"])[2]'
+2024-10-28 17:42:38,768 - INFO - Clicked OTP button with digit '2'
+2024-10-28 17:42:38,768 - INFO - Successfully sent OTP '2' via keypad
+2024-10-28 17:42:40,085 - INFO - Element found with locatorType 'xpath' and locatorValue '(//android.widget.TextView[@text="3"])[2]'
+2024-10-28 17:42:40,768 - INFO - Clicked element with locatorType 'xpath' and locatorValue '(//android.widget.TextView[@text="3"])[2]'
+2024-10-28 17:42:40,769 - INFO - Clicked OTP button with digit '3'
+2024-10-28 17:42:40,769 - INFO - Successfully sent OTP '3' via keypad
+2024-10-28 17:42:42,058 - INFO - Element found with locatorType 'xpath' and locatorValue '(//android.widget.TextView[@text="4"])[2]'
+2024-10-28 17:42:42,764 - INFO - Clicked element with locatorType 'xpath' and locatorValue '(//android.widget.TextView[@text="4"])[2]'
+2024-10-28 17:42:42,765 - INFO - Clicked OTP button with digit '4'
+2024-10-28 17:42:42,765 - INFO - Successfully sent OTP '4' via keypad
+2024-10-28 17:42:44,257 - INFO - Screenshot taken and saved at '../screenshot/005_Entered OTP Number_28_10_2024_17_42_43.png'
+2024-10-28 17:42:44,917 - INFO - Element found with locatorType 'text' and locatorValue 'login with OTP'
+2024-10-28 17:42:45,045 - INFO - Clicked element with locatorType 'text' and locatorValue 'login with OTP'
+2024-10-28 17:42:46,068 - INFO - Screenshot taken and saved at '../screenshot/006_Clicked on Login with OTP button_28_10_2024_17_42_45.png'
+2024-10-28 17:43:03,479 - INFO - Element found with locatorType 'text' and locatorValue 'shop'
+2024-10-28 17:43:08,865 - INFO - Clicked element with locatorType 'text' and locatorValue 'shop'
+2024-10-28 17:43:10,053 - INFO - Screenshot taken and saved at '../screenshot/007_Clicked on Shop button_28_10_2024_17_43_08.png'
+2024-10-28 17:43:33,712 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="deals"]'
+2024-10-28 17:43:34,607 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="deals"]'
+2024-10-28 17:43:39,373 - INFO - Screenshot taken and saved at '../screenshot/008_Navigated to Deals Page_28_10_2024_17_43_36.png'
+2024-10-28 17:43:40,856 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="explore"]'
+2024-10-28 17:43:40,934 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="explore"]'
+2024-10-28 17:43:44,221 - INFO - Screenshot taken and saved at '../screenshot/009_Navigated to Explore Page_28_10_2024_17_43_42.png'
+2024-10-28 17:43:45,257 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="shop"]'
+2024-10-28 17:43:45,381 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="shop"]'
+2024-10-28 17:43:49,016 - INFO - Screenshot taken and saved at '../screenshot/010_Navigated to Shop Dashboard_28_10_2024_17_43_47.png'
+2024-10-28 17:43:56,196 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.view.ViewGroup[@content-desc="DS_SHOPshop-account-icon.webp"]'
+2024-10-28 17:43:57,302 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.view.ViewGroup[@content-desc="DS_SHOPshop-account-icon.webp"]'
+2024-10-28 17:43:58,770 - INFO - Screenshot taken and saved at '../screenshot/011_Clicked on Account Button_28_10_2024_17_43_57.png'
+2024-10-28 17:44:04,653 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="credit cards"]'
+2024-10-28 17:44:04,752 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="credit cards"]'
+2024-10-28 17:44:07,687 - INFO - Screenshot taken and saved at '../screenshot/012_Navigated to Credit Cards_28_10_2024_17_44_06.png'
+2024-10-28 17:44:10,301 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="coupons"]'
+2024-10-28 17:44:10,379 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="coupons"]'
+2024-10-28 17:44:13,302 - INFO - Screenshot taken and saved at '../screenshot/013_Navigated to Coupons_28_10_2024_17_44_12.png'
+2024-10-28 17:44:16,120 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="your orders"]'
+2024-10-28 17:44:16,234 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="your orders"]'
+2024-10-28 17:44:19,221 - INFO - Screenshot taken and saved at '../screenshot/014_Navigataed to My Orders_28_10_2024_17_44_18.png'
+2024-10-28 17:44:22,315 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="saved payments"]'
+2024-10-28 17:44:22,409 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="saved payments"]'
+2024-10-28 17:44:25,472 - INFO - Screenshot taken and saved at '../screenshot/015_Navigated to Saved Payments_28_10_2024_17_44_24.png'
+2024-10-28 17:44:28,148 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="help & support"]'
+2024-10-28 17:44:28,245 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="help & support"]'
+2024-10-28 17:44:31,167 - INFO - Screenshot taken and saved at '../screenshot/016_Navigated to Help & Support_28_10_2024_17_44_30.png'
+2024-10-28 17:44:33,393 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="FAQs"]'
+2024-10-28 17:44:33,485 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="FAQs"]'
+2024-10-28 17:44:36,469 - INFO - Screenshot taken and saved at '../screenshot/017_Navigated to FAQ_28_10_2024_17_44_35.png'
+2024-10-28 17:44:38,803 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="terms & conditions"]'
+2024-10-28 17:44:38,886 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="terms & conditions"]'
+2024-10-28 17:44:41,828 - INFO - Screenshot taken and saved at '../screenshot/018_Navigated to Terms & Conditions_28_10_2024_17_44_40.png'
+2024-10-28 17:44:44,334 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="privacy policy"]'
+2024-10-28 17:44:44,406 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="privacy policy"]'
+2024-10-28 17:44:47,349 - INFO - Screenshot taken and saved at '../screenshot/019_Navigated to Privacy Policy_28_10_2024_17_44_46.png'
+2024-10-28 17:44:50,865 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="about us"]'
+2024-10-28 17:44:50,925 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="about us"]'
+2024-10-28 17:44:53,833 - INFO - Screenshot taken and saved at '../screenshot/020_Navigated to About Us_28_10_2024_17_44_52.png'
+2024-10-28 17:44:55,156 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="saved payments"]'
+2024-10-28 17:44:56,118 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="saved payments"]'
+2024-10-28 17:44:59,098 - INFO - Screenshot taken and saved at '../screenshot/021_Navigated to Saved Payments_28_10_2024_17_44_58.png'
+2024-10-28 17:45:02,572 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="FAQs"]'
+2024-10-28 17:45:02,677 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="FAQs"]'
+2024-10-28 17:45:05,602 - INFO - Screenshot taken and saved at '../screenshot/022_Navigated to FAQ_28_10_2024_17_45_04.png'
+2024-10-28 17:45:12,145 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="your orders"]'
+2024-10-28 17:45:12,206 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="your orders"]'
+2024-10-28 17:45:15,632 - INFO - Screenshot taken and saved at '../screenshot/023_Navigataed to My Orders_28_10_2024_17_45_14.png'
+2024-10-28 17:45:18,586 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="credit cards"]'
+2024-10-28 17:45:18,638 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="credit cards"]'
+2024-10-28 17:45:21,649 - INFO - Screenshot taken and saved at '../screenshot/024_Navigated to Credit Cards_28_10_2024_17_45_20.png'
+2024-10-28 17:45:24,494 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="coupons"]'
+2024-10-28 17:45:24,553 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.widget.TextView[@text="coupons"]'
+2024-10-28 17:45:27,591 - INFO - Screenshot taken and saved at '../screenshot/025_Navigated to Coupons_28_10_2024_17_45_26.png'
+2024-10-28 17:45:31,084 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.widget.ImageView'
+2024-10-28 17:45:31,153 - INFO - Clicked element with locatorType 'xpath' and locatorValue '//android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[1]/android.view.ViewGroup/android.widget.ImageView'
+2024-10-28 17:45:34,147 - INFO - Screenshot taken and saved at '../screenshot/026_Navigated to Profile Edit Page_28_10_2024_17_45_33.png'
+2024-10-28 17:45:35,407 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.view.ViewGroup[@content-desc="DS_SHOP_https://vishop.myvi.in/documents/35161/38258/search.png"]'
+2024-10-28 17:45:42,595 - ERROR - Failed to click element with locatorType 'xpath' and locatorValue '//android.view.ViewGroup[@content-desc="DS_SHOP_https://vishop.myvi.in/documents/35161/38258/search.png"]'. Error: Message: The element 'By.xpath: //android.view.ViewGroup[@content-desc="DS_SHOP_https://vishop.myvi.in/documents/35161/38258/search.png"]' is not linked to the same object in DOM anymore; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+io.appium.uiautomator2.common.exceptions.StaleElementReferenceException: The element 'By.xpath: //android.view.ViewGroup[@content-desc="DS_SHOP_https://vishop.myvi.in/documents/35161/38258/search.png"]' is not linked to the same object in DOM anymore
+	at io.appium.uiautomator2.model.ElementsCache.restore(ElementsCache.java:122)
+	at io.appium.uiautomator2.model.ElementsCache.get(ElementsCache.java:153)
+	at io.appium.uiautomator2.handler.Click.safeHandle(Click.java:36)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:59)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:259)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:253)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:77)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:266)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:552)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:466)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:1012)
+
+2024-10-28 17:45:44,150 - INFO - Screenshot taken and saved at '../screenshot/027_ClickElementError_xpath_//android.view.ViewGroup[@content-desc="DS_SHOP_https://vishop.myvi.in/documents/35161/38258/search.png"]_28_10_2024_17_45_42.png'
+2024-10-28 17:46:10,091 - ERROR - Failed to wait for element with locatorType 'xpath' and locatorValue '//android.widget.EditText[@text="Search for products,brands etc"]'. Error: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\HP-Z\.appium\node_modules\appium-uiautomator2-driver\node_modules\appium-android-driver\lib\commands\find.ts:86:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at AndroidUiautomator2Driver.findElOrElsWithProcessing (C:\Users\HP-Z\AppData\Roaming\npm\node_modules\appium\node_modules\@appium\base-driver\lib\basedriver\commands\find.ts:60:12)
+    at AndroidUiautomator2Driver.findElement (C:\Users\HP-Z\AppData\Roaming\npm\node_modules\appium\node_modules\@appium\base-driver\lib\basedriver\commands\find.ts:75:12)
+2024-10-28 17:46:11,708 - INFO - Screenshot taken and saved at '../screenshot/028_WaitForElementError_xpath_//android.widget.EditText[@text="Search for products,brands etc"]_28_10_2024_17_46_10.png'
+2024-10-28 17:46:11,709 - INFO - Element found with locatorType 'xpath' and locatorValue '//android.widget.EditText[@text="Search for products,brands etc"]'
+2024-10-28 17:46:11,709 - ERROR - Failed to send text to element with locatorType 'xpath' and locatorValue '//android.widget.EditText[@text="Search for products,brands etc"]'. Error: Element not found
+2024-10-28 17:46:13,252 - INFO - Screenshot taken and saved at '../screenshot/029_SendTextError_xpath_//android.widget.EditText[@text="Search for products,brands etc"]_28_10_2024_17_46_11.png'
+2024-10-28 17:46:38,341 - ERROR - Failed to wait for element with locatorType 'class' and locatorValue 'android.widget.EditText'. Error: Message: 
+Stacktrace:
+NoSuchElementError: An element could not be located on the page using the given search parameters.
+    at AndroidUiautomator2Driver.findElOrEls (C:\Users\HP-Z\.appium\node_modules\appium-uiautomator2-driver\node_modules\appium-android-driver\lib\commands\find.ts:86:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at AndroidUiautomator2Driver.findElOrElsWithProcessing (C:\Users\HP-Z\AppData\Roaming\npm\node_modules\appium\node_modules\@appium\base-driver\lib\basedriver\commands\find.ts:60:12)
+    at AndroidUiautomator2Driver.findElement (C:\Users\HP-Z\AppData\Roaming\npm\node_modules\appium\node_modules\@appium\base-driver\lib\basedriver\commands\find.ts:75:12)
+2024-10-28 17:46:39,878 - INFO - Screenshot taken and saved at '../screenshot/030_WaitForElementError_class_android.widget.EditText_28_10_2024_17_46_38.png'
+2024-10-28 17:46:39,878 - INFO - Element found with locatorType 'class' and locatorValue 'android.widget.EditText'
+2024-10-28 17:46:40,379 - ERROR - Element not found with locatorType 'class' and locatorValue 'android.widget.EditText'
+2024-10-28 17:46:41,971 - INFO - Screenshot taken and saved at '../screenshot/031_VerifyTextError_class_android.widget.EditText_28_10_2024_17_46_40.png'
+2024-10-28 17:46:41,971 - ERROR - Expected text 'Zzz' not displayed in the field.
